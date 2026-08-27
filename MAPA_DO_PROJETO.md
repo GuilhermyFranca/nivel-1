@@ -19,14 +19,18 @@ Projeto de desenvolvimento de um sistema visual de cartas para RPG, acompanhado 
 
 As cartas são os elementos fundamentais do sistema.
 
-Possíveis categorias:
+#### Tipos de Carta
 
-* Perícias
-* Habilidades de Classe
-* Magias
-* Equipamentos
-* Personagens
-* Outros
+Os tipos de carta identificados atualmente são:
+
+- Perícia
+- Habilidade de Classe
+- Magia
+- Infusão
+- Equipamento
+- Personagem
+
+Esta classificação permanece aberta para novos tipos de carta conforme o desenvolvimento do projeto e a análise do acervo original..
 
 ### Decks
 
