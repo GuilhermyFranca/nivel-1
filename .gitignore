@@ -13,3 +13,6 @@ Pericias/
 *.tmp
 *.bak
 *.swp
+
+# Arquivos gerados para distribuição
+README_MEGA.pdf
