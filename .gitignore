@@ -1,0 +1,15 @@
+# Materiais visuais e cartas
+Pericias/
+
+# Arquivos de imagem
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.psd
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
