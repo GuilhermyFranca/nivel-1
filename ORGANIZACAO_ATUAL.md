@@ -6,7 +6,7 @@ Este documento descreve a organização atualmente utilizada no desenvolvimento 
 
 A organização atual é **incremental e orientada pelas necessidades reais do jogo**.
 
-Não existe a exigência de estruturar previamente todo o acervo de cartas, todas as classes ou todas as possíveis coleções.
+Não existe a exigência de estruturar previamente todo o acervo de cartas, todas as classes ou todas as possíveis coleções antes que exista uma necessidade concreta para isso.
 
 ---
 
@@ -33,7 +33,7 @@ A produção não precisa aguardar a conclusão de um conjunto completo.
 
 ## Organização por classe
 
-Os materiais destinados aos jogadores são organizados principalmente por classe.
+Na distribuição aos jogadores, os materiais são organizados principalmente por classe.
 
 Uma classe pode possuir:
 
@@ -89,7 +89,7 @@ A organização do MEGA deve priorizar a facilidade de acesso e utilização pel
 
 A estrutura de distribuição pode ser modificada conforme as necessidades do jogo.
 
-O MEGA é utilizado como meio de distribuição dos materiais, enquanto o GitHub é utilizado principalmente para documentação, organização e versionamento do projeto.
+O MEGA é utilizado principalmente como meio de distribuição dos materiais aos jogadores, enquanto o GitHub é utilizado principalmente para documentação, organização e versionamento do projeto.
 
 ---
 
